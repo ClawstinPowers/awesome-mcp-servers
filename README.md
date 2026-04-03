@@ -410,6 +410,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools for identity and access management. Enables user authentication, authorization.
 
+- <img src="https://modustrust.ai/favicon.ico" height="14"/> [Modus](https://modustrust.ai/docs) - Trust infrastructure for AI agents. Cryptographic passports with enforced constraints (spend caps, rate limits, domain restrictions), MCP-native gates for service-side verification, and signed attestations on every agent decision. Connects via MCP in one command.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
 
 <br />
